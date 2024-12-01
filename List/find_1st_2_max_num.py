@@ -7,7 +7,7 @@ word = random.choice(a)
 
 
 dash = ['_'] * len(word)
-print(dash)
+
 
 chance = 5
 while chance > 0:
